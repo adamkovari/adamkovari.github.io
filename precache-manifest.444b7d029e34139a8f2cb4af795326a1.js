@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5a24efe2541f07e9908037902893bbf",
+    "revision": "7ccf88fc962db2e77b16e5887450bf21",
     "url": "/ego-sum/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ego-sum/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "da1bddba30ba0565adb9",
-    "url": "/ego-sum/static/css/main.f91ff21c.chunk.css"
+    "revision": "a2c3eda51653973aab4a",
+    "url": "/ego-sum/static/css/main.f33b1845.chunk.css"
   },
   {
     "revision": "e8bd34c19ff782a81cde",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ego-sum/static/js/2.9705bca3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da1bddba30ba0565adb9",
+    "revision": "a2c3eda51653973aab4a",
     "url": "/ego-sum/static/js/main.aa675527.chunk.js"
   },
   {
