@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/ego-sum/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ego-sum/static/js/main.740aaaa7.chunk.js",
-    "main.js.map": "/ego-sum/static/js/main.740aaaa7.chunk.js.map",
+    "main.css": "/ego-sum/static/css/main.4d026d04.chunk.css",
+    "main.js": "/ego-sum/static/js/main.4faeac68.chunk.js",
+    "main.js.map": "/ego-sum/static/js/main.4faeac68.chunk.js.map",
     "runtime-main.js": "/ego-sum/static/js/runtime-main.ac834b16.js",
     "runtime-main.js.map": "/ego-sum/static/js/runtime-main.ac834b16.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/ego-sum/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.a382fe2e.chunk.js": "/ego-sum/static/js/2.a382fe2e.chunk.js",
-    "static/js/2.a382fe2e.chunk.js.map": "/ego-sum/static/js/2.a382fe2e.chunk.js.map",
+    "static/js/2.9705bca3.chunk.js": "/ego-sum/static/js/2.9705bca3.chunk.js",
+    "static/js/2.9705bca3.chunk.js.map": "/ego-sum/static/js/2.9705bca3.chunk.js.map",
     "index.html": "/ego-sum/index.html",
-    "precache-manifest.472be48567ab1e9c5bbf28492ecf8ce7.js": "/ego-sum/precache-manifest.472be48567ab1e9c5bbf28492ecf8ce7.js",
+    "precache-manifest.80ca6b0611adbf95fcb2589386a6db2a.js": "/ego-sum/precache-manifest.80ca6b0611adbf95fcb2589386a6db2a.js",
     "service-worker.js": "/ego-sum/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/ego-sum/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/ego-sum/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a382fe2e.chunk.js.LICENSE.txt": "/ego-sum/static/js/2.a382fe2e.chunk.js.LICENSE.txt"
+    "static/css/main.4d026d04.chunk.css.map": "/ego-sum/static/css/main.4d026d04.chunk.css.map",
+    "static/js/2.9705bca3.chunk.js.LICENSE.txt": "/ego-sum/static/js/2.9705bca3.chunk.js.LICENSE.txt",
+    "static/media/camera.png": "/ego-sum/static/media/camera.1000cac6.png",
+    "static/media/golden-gate.JPG": "/ego-sum/static/media/golden-gate.5eaf51ca.JPG",
+    "static/media/montenegro.gif": "/ego-sum/static/media/montenegro.62d3d5b0.gif",
+    "static/media/montenegro_2.gif": "/ego-sum/static/media/montenegro_2.f71c64c6.gif",
+    "static/media/montenegro_3.jpg": "/ego-sum/static/media/montenegro_3.a839953a.jpg",
+    "static/media/venice.jpg": "/ego-sum/static/media/venice.366cb40c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac834b16.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.a382fe2e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.740aaaa7.chunk.js"
+    "static/js/2.9705bca3.chunk.js",
+    "static/css/main.4d026d04.chunk.css",
+    "static/js/main.4faeac68.chunk.js"
   ]
 }
