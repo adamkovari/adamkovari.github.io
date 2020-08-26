@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ego-sum/precache-manifest.1f03fcbb6c75e2c961f1963291313d83.js"
+  "/ego-sum/precache-manifest.64eefb930aebcf88cd7b6633c39824cf.js"
 );
 
 self.addEventListener('message', (event) => {

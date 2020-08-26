@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ego-sum/static/css/main.e9f844b9.chunk.css",
+    "main.css": "/ego-sum/static/css/main.07cfca9e.chunk.css",
     "main.js": "/ego-sum/static/js/main.aa675527.chunk.js",
     "main.js.map": "/ego-sum/static/js/main.aa675527.chunk.js.map",
     "runtime-main.js": "/ego-sum/static/js/runtime-main.ac834b16.js",
@@ -9,10 +9,10 @@
     "static/js/2.9705bca3.chunk.js": "/ego-sum/static/js/2.9705bca3.chunk.js",
     "static/js/2.9705bca3.chunk.js.map": "/ego-sum/static/js/2.9705bca3.chunk.js.map",
     "index.html": "/ego-sum/index.html",
-    "precache-manifest.1f03fcbb6c75e2c961f1963291313d83.js": "/ego-sum/precache-manifest.1f03fcbb6c75e2c961f1963291313d83.js",
+    "precache-manifest.64eefb930aebcf88cd7b6633c39824cf.js": "/ego-sum/precache-manifest.64eefb930aebcf88cd7b6633c39824cf.js",
     "service-worker.js": "/ego-sum/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/ego-sum/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.e9f844b9.chunk.css.map": "/ego-sum/static/css/main.e9f844b9.chunk.css.map",
+    "static/css/main.07cfca9e.chunk.css.map": "/ego-sum/static/css/main.07cfca9e.chunk.css.map",
     "static/js/2.9705bca3.chunk.js.LICENSE.txt": "/ego-sum/static/js/2.9705bca3.chunk.js.LICENSE.txt",
     "static/media/camera.png": "/ego-sum/static/media/camera.1000cac6.png",
     "static/media/golden-gate.JPG": "/ego-sum/static/media/golden-gate.5eaf51ca.JPG",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.ac834b16.js",
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.9705bca3.chunk.js",
-    "static/css/main.e9f844b9.chunk.css",
+    "static/css/main.07cfca9e.chunk.css",
     "static/js/main.aa675527.chunk.js"
   ]
 }
