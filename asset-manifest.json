@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ego-sum/static/css/main.5d501d7f.chunk.css",
-    "main.js": "/ego-sum/static/js/main.643fbb58.chunk.js",
-    "main.js.map": "/ego-sum/static/js/main.643fbb58.chunk.js.map",
+    "main.js": "/ego-sum/static/js/main.74e50ced.chunk.js",
+    "main.js.map": "/ego-sum/static/js/main.74e50ced.chunk.js.map",
     "runtime-main.js": "/ego-sum/static/js/runtime-main.ac834b16.js",
     "runtime-main.js.map": "/ego-sum/static/js/runtime-main.ac834b16.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/ego-sum/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.94bae91b.chunk.js": "/ego-sum/static/js/2.94bae91b.chunk.js",
     "static/js/2.94bae91b.chunk.js.map": "/ego-sum/static/js/2.94bae91b.chunk.js.map",
     "index.html": "/ego-sum/index.html",
-    "precache-manifest.bc0e65e4297aa85feb21cffb021616cc.js": "/ego-sum/precache-manifest.bc0e65e4297aa85feb21cffb021616cc.js",
+    "precache-manifest.9c9b42996757bf0af2904b30b7972a0d.js": "/ego-sum/precache-manifest.9c9b42996757bf0af2904b30b7972a0d.js",
     "service-worker.js": "/ego-sum/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/ego-sum/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5d501d7f.chunk.css.map": "/ego-sum/static/css/main.5d501d7f.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.94bae91b.chunk.js",
     "static/css/main.5d501d7f.chunk.css",
-    "static/js/main.643fbb58.chunk.js"
+    "static/js/main.74e50ced.chunk.js"
   ]
 }
