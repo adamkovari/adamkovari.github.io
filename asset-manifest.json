@@ -1,31 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec902714.chunk.css",
-    "main.js": "/static/js/main.0fc1f3dd.chunk.js",
-    "main.js.map": "/static/js/main.0fc1f3dd.chunk.js.map",
+    "main.css": "/static/css/main.1e4c9fbf.chunk.css",
+    "main.js": "/static/js/main.df26dc8b.chunk.js",
+    "main.js.map": "/static/js/main.df26dc8b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5736e9de.js",
     "runtime-main.js.map": "/static/js/runtime-main.5736e9de.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.9e6b6bb1.chunk.js": "/static/js/2.9e6b6bb1.chunk.js",
-    "static/js/2.9e6b6bb1.chunk.js.map": "/static/js/2.9e6b6bb1.chunk.js.map",
+    "static/js/2.44f096ff.chunk.js": "/static/js/2.44f096ff.chunk.js",
+    "static/js/2.44f096ff.chunk.js.map": "/static/js/2.44f096ff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6b12ebd640ff462bb43420e42bce38c6.js": "/precache-manifest.6b12ebd640ff462bb43420e42bce38c6.js",
+    "precache-manifest.c351bc422eb1b75de0f1e0682b4e18bc.js": "/precache-manifest.c351bc422eb1b75de0f1e0682b4e18bc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.ec902714.chunk.css.map": "/static/css/main.ec902714.chunk.css.map",
-    "static/js/2.9e6b6bb1.chunk.js.LICENSE.txt": "/static/js/2.9e6b6bb1.chunk.js.LICENSE.txt",
+    "static/css/main.1e4c9fbf.chunk.css.map": "/static/css/main.1e4c9fbf.chunk.css.map",
+    "static/js/2.44f096ff.chunk.js.LICENSE.txt": "/static/js/2.44f096ff.chunk.js.LICENSE.txt",
+    "static/media/boat.JPG": "/static/media/boat.bea0d1ed.JPG",
     "static/media/camera.png": "/static/media/camera.1000cac6.png",
+    "static/media/coin_tower_3.gif": "/static/media/coin_tower_3.accce9c4.gif",
     "static/media/golden-gate.JPG": "/static/media/golden-gate.5eaf51ca.JPG",
     "static/media/montenegro.gif": "/static/media/montenegro.62d3d5b0.gif",
     "static/media/montenegro_2.gif": "/static/media/montenegro_2.f71c64c6.gif",
     "static/media/montenegro_3.jpg": "/static/media/montenegro_3.a839953a.jpg",
-    "static/media/venice.jpg": "/static/media/venice.366cb40c.jpg"
+    "static/media/orban.jpg": "/static/media/orban.15ecf724.jpg",
+    "static/media/surf_hut.JPG": "/static/media/surf_hut.670a5615.JPG",
+    "static/media/survivor.JPG": "/static/media/survivor.9b31741a.JPG",
+    "static/media/usa.JPG": "/static/media/usa.0ee4f282.JPG",
+    "static/media/venice.jpg": "/static/media/venice.366cb40c.jpg",
+    "static/media/yosemite.JPG": "/static/media/yosemite.e18373c5.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.5736e9de.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.9e6b6bb1.chunk.js",
-    "static/css/main.ec902714.chunk.css",
-    "static/js/main.0fc1f3dd.chunk.js"
+    "static/js/2.44f096ff.chunk.js",
+    "static/css/main.1e4c9fbf.chunk.css",
+    "static/js/main.df26dc8b.chunk.js"
   ]
 }
